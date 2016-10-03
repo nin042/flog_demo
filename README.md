@@ -1,5 +1,10 @@
 # Basic examples of flog use
 
+- The purpose of this is to demonstrate the use of flog to find "bad" code
+- flog is maintained by seattlerb [LINK](https://github.com/seattlerb/flog)
+- flog was created by Ryan Davis
+  - check out his other projects [LINK](http://blog.zenspider.com/projects/)
+
 ## Ex. of flog scores
 
 ```
