@@ -46,4 +46,9 @@ class Horrible
     end
     return puts "your input is greater than 10"
   end
+
+  def even_better(val)
+    return puts "your input is #{val}" if (1..10).include?(val)
+    return puts "your input is greater than 10"
+  end
 end
